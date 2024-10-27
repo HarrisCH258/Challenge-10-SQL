@@ -1,1 +1,1 @@
-# NodeJS-challenge
+# SQL challenge
