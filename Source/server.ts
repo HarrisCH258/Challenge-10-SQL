@@ -45,3 +45,28 @@ pool.query(
     }
   });
 
+ pool.query('SELECT * FROM Department', (err: Error, result: QueryResult) => { 
+    if (err) {
+      console.log(err);
+    } else if (result) {
+      console.log(result.rows);
+    }
+ });
+
+ pool.query('SELECT * FROM Role', (err: Error, result: QueryResult) => { 
+    if (err) {
+      console.log(err);
+    } else if (result) {
+      console.log(result.rows);
+    }
+ });
+
+ pool.query('SELECT * FROM Employee', (err: Error, result: QueryResult) => { 
+    if (err) {
+      console.log(err);
+    } else if (result) {
+      console.log(result.rows);
+    }
+ });
+
+ 
