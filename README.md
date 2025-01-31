@@ -6,4 +6,5 @@ When the user chooses to view all departments, they are presented with a formatt
 ## Video Walkthrough Link
 Link: https://app.screencastify.com/v2/manage/videos/98JQerYNCu2lHxTypyeq
 ## Contat Me
-Github: 
+Github: https://github.com/HarrisCH258/Challenge-10-SQL
+Email: ch2953har@gmail.com
